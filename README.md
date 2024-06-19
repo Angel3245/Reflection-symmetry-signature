@@ -1,7 +1,7 @@
 Python implementation of reflection symmetry detection of shapes based on shape signatures
 ===
 
-This project involves the development of a Python implementation for detecting reflection symmetry in shapes using shape signatures based on [1]. Reflection symmetry detection is crucial in various applications, including computer vision, image processing, and pattern recognition. Shape signatures provide a compact representation of the shape's geometric features, facilitating efficient symmetry analysis.
+This project involves the development of a Python implementation for detecting reflection symmetry in shapes using shape signatures based on [Reflection symmetry detection of shapes based on shape signatures](https://www.sciencedirect.com/science/article/pii/S0031320322001480) [1]. Reflection symmetry detection is crucial in various applications, including computer vision, image processing, and pattern recognition. Shape signatures provide a compact representation of the shape's geometric features, facilitating efficient symmetry analysis.
 
 ## Reflection Symmetry Detection
 The process of detecting reflection symmetry involves:
