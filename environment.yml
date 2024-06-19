@@ -1,0 +1,11 @@
+name: cv2
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - python=3.10
+  - tqdm
+  - jupyter
+  - scikit-image
+  - tabulate
+prefix: /home/user/miniconda3/envs/cv2
